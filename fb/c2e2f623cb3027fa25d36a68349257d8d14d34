@@ -1,0 +1,29 @@
+bybit-options-wheel/scripts/optionwheel_bybit_client.py
+  958d26c41be87ff5 1-456
+bybit-options-wheel/reference/strategy_spec.schema.json
+  958d26c41be87ff5 1-208
+bybit-options-wheel/scripts/test_smoke.py
+  958d26c41be87ff5 1-147
+bybit-options-wheel/scripts/optionwheel.py
+  958d26c41be87ff5 1-839
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2-bit.10+672fbf0",
+  "base_commit_sha": "fbc2e2f623cb3027fa25d36a68349257d8d14d34",
+  "prompts": {
+    "958d26c41be87ff5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eaa21c14-ec91-4526-8435-a0e53b644f79",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "johnny.wang",
+      "messages": [],
+      "total_additions": 4101,
+      "total_deletions": 0,
+      "accepted_lines": 4101,
+      "overriden_lines": 0
+    }
+  }
+}
